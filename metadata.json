@@ -1,0 +1,8 @@
+{
+  "name": "공감하는 소설가 AI",
+  "description": "중학교 소설 쓰기 동아리 학생들을 위한, 상처를 치유하고 성장으로 이끄는 소설 창작 가이드.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
